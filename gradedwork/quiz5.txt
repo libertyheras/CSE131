@@ -1,0 +1,30 @@
+Greetings from your synthetically friendly robotic CSE131 grader!
+Quiz report for pranav.maddula:
+Report prepared at Sat Mar 10 11:50:39 CST 2018
+
+Question:
+   Chose one:
+   Grading function: answer.include?("B)") or answer.include?("A)")
+   Your answer was: B) 1, 2, 4 only
+Nice job! You have earned 40 points.
+
+Explanation: Parameter types, not names, are part of a method's signature
+
+Question:
+   Choose one:
+   Grading function: answer.include?("A)")
+   Your answer was: A) The method stops at that return statement and the value 31 is returned.
+Glad you got that one! You have earned 20 points.
+
+Explanation: A return statement always ceases execution of a method
+
+Question:
+   Before the method foo actually executes, what values are pushed on top of the execution stack?
+   Grading function: answer.include?("A)")
+   Your answer was: A) 7 is on top, and 6 is underneath it
+Way to go! You have earned 40 points.
+
+Explanation: Parameter values are pushed from left to right
+
+
+Your total score is 100.
